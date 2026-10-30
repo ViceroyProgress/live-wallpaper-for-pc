@@ -7,18 +7,18 @@
 <p>Free, open source live wallpaper software for Windows 10 and 11. Set a video, a GIF or a website as your desktop background.</p>
 
 <p>
-<a href="https://sourceforge.net/projects/SOURCEFORGE-PROJECT/files/latest/download"><img src="https://img.shields.io/badge/Download-SourceForge-5A1FB0?style=flat-square" alt="Download on SourceForge"></a>
+<a href="https://sourceforge.net/projects/live-wallpaper/files/latest/download"><img src="https://img.shields.io/badge/Download-SourceForge-5A1FB0?style=flat-square" alt="Download on SourceForge"></a>
 <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-231A3D?style=flat-square" alt="Windows 10 and 11">
 <img src="https://img.shields.io/badge/Portable-no%20installation-231A3D?style=flat-square" alt="Portable, no installation">
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-231A3D?style=flat-square" alt="GPL-3.0 license"></a>
 </p>
 
 <p>
-<a href="https://sourceforge.net/projects/SOURCEFORGE-PROJECT/files/latest/download"><b>Download from SourceForge</b></a>
+<a href="https://sourceforge.net/projects/live-wallpaper/files/latest/download"><b>Download from SourceForge</b></a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://sourceforge.net/projects/SOURCEFORGE-PROJECT/"><b>SourceForge project page</b></a>
+<a href="https://sourceforge.net/projects/live-wallpaper/"><b>SourceForge project page</b></a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://GITHUB-USER.github.io/live-wallpaper-for-pc/">Website</a>
+<a href="https://viceroyprogress.github.io/live-wallpaper-for-pc/">Website</a>
 </p>
 
 <img src="docs/assets/screenshots/app-main.webp" width="720" alt="Library screen of the live wallpaper software with wallpaper previews and the settings panel of a rain wallpaper">
@@ -33,9 +33,9 @@ It is free, with no features locked behind a paywall, and it pauses itself durin
 
 ## Download from SourceForge
 
-The app is distributed through its [SourceForge project page](https://sourceforge.net/projects/SOURCEFORGE-PROJECT/).
+The app is distributed through its [SourceForge project page](https://sourceforge.net/projects/live-wallpaper/).
 
-1. [Download the ZIP from SourceForge](https://sourceforge.net/projects/SOURCEFORGE-PROJECT/files/latest/download).
+1. [Download the ZIP from SourceForge](https://sourceforge.net/projects/live-wallpaper/files/latest/download).
 2. Extract it to any folder.
 3. Run the app. There is nothing to install.
 
@@ -54,8 +54,8 @@ Drag what you want onto the window to set it, or click **Add Wallpaper**. Your w
 
 Step-by-step guides:
 
-- [How to set a video as wallpaper on your PC](https://GITHUB-USER.github.io/live-wallpaper-for-pc/set-video-as-wallpaper/)
-- [How to set a GIF as wallpaper on your PC](https://GITHUB-USER.github.io/live-wallpaper-for-pc/set-gif-as-wallpaper/)
+- [How to set a video as wallpaper on your PC](https://viceroyprogress.github.io/live-wallpaper-for-pc/set-video-as-wallpaper/)
+- [How to set a GIF as wallpaper on your PC](https://viceroyprogress.github.io/live-wallpaper-for-pc/set-gif-as-wallpaper/)
 
 ## Features
 

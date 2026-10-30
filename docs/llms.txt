@@ -4,12 +4,12 @@
 
 ## Product
 
-- [Home](https://GITHUB-USER.github.io/live-wallpaper-for-pc/): Features and FAQ
-- [Download](https://sourceforge.net/projects/SOURCEFORGE-PROJECT/files/latest/download): Download from SourceForge
-- [SourceForge project](https://sourceforge.net/projects/SOURCEFORGE-PROJECT/): Project page
-- [Source code](https://github.com/GITHUB-USER/live-wallpaper-for-pc): GitHub repository
+- [Home](https://viceroyprogress.github.io/live-wallpaper-for-pc/): Features and FAQ
+- [Download](https://sourceforge.net/projects/live-wallpaper/files/latest/download): Download from SourceForge
+- [SourceForge project](https://sourceforge.net/projects/live-wallpaper/): Project page
+- [Source code](https://github.com/ViceroyProgress/live-wallpaper-for-pc): GitHub repository
 
 ## Guides
 
-- [How to set a video as wallpaper](https://GITHUB-USER.github.io/live-wallpaper-for-pc/set-video-as-wallpaper/): Steps for Windows 11 and Windows 10
-- [How to set a GIF as wallpaper](https://GITHUB-USER.github.io/live-wallpaper-for-pc/set-gif-as-wallpaper/): Steps for Windows 11 and Windows 10
+- [How to set a video as wallpaper](https://viceroyprogress.github.io/live-wallpaper-for-pc/set-video-as-wallpaper/): Steps for Windows 11 and Windows 10
+- [How to set a GIF as wallpaper](https://viceroyprogress.github.io/live-wallpaper-for-pc/set-gif-as-wallpaper/): Steps for Windows 11 and Windows 10

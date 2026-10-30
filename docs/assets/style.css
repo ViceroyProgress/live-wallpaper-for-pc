@@ -12,9 +12,6 @@
   --accent-dark: #3f1590;
   --pad: clamp(20px, 4vw, 48px);
   --gap: clamp(32px, 4vw, 64px);
-  --wrap: min(1240px, 100vw - 2 * var(--pad));
-  /* The vertical axis everything below the headline hangs from */
-  --axis: calc((var(--wrap) - var(--gap)) / 3.4 + var(--gap));
 }
 
 * { box-sizing: border-box; }
@@ -44,7 +41,7 @@ a:hover { color: var(--accent-dark); }
 }
 .skip:focus { left: 12px; top: 12px; z-index: 2; }
 
-.wrap { width: var(--wrap); margin-inline: auto; }
+.wrap { width: min(1240px, 100% - 2 * var(--pad)); margin-inline: auto; }
 
 h1, h2, h3 { font-weight: 600; line-height: 1.12; margin: 0; }
 h1 { font-size: clamp(2.75rem, 7.4vw, 6rem); letter-spacing: -.025em; line-height: 1.02; max-width: 15ch; }
@@ -105,11 +102,9 @@ p { margin: 0; }
 }
 .note { color: var(--muted); font-size: 1rem; margin-top: 16px; }
 .shot {
-  width: calc(100vw - (100vw - var(--wrap)) / 2 - var(--axis));
-  max-width: none;
+  width: 100%;
   margin-top: clamp(40px, 5vw, 64px);
-  margin-left: calc((100vw - var(--wrap)) / 2 + var(--axis));
-  border-radius: 8px 0 0 8px;
+  border-radius: 8px;
 }
 
 /* Sections: heading in the margin, content on the axis */
@@ -172,7 +167,6 @@ footer span { flex-basis: 100%; }
   .hero-text, .row { display: block; }
   .row > h2 { margin-bottom: 20px; }
   .hero-text > div { max-width: none; }
-  .shot { width: 100%; margin-left: 0; border-radius: 0; }
   .with-image { display: block; }
   .with-image img { margin-top: 24px; max-width: 300px; }
   table { font-size: 1rem; }

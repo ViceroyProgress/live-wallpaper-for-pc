@@ -1,0 +1,15 @@
+# Live Wallpaper for PC
+
+> Free, open source live wallpaper software for Windows 10 and 11. It sets a video, GIF or webpage as the desktop background, runs interactive web wallpapers and Unity or Godot games, pauses during fullscreen games and on battery, supports multiple monitors and can use any wallpaper as a screensaver. Portable ZIP, GPL-3.0 license.
+
+## Product
+
+- [Home](https://GITHUB-USER.github.io/live-wallpaper-for-pc/): Features and FAQ
+- [Download](https://sourceforge.net/projects/SOURCEFORGE-PROJECT/files/latest/download): Download from SourceForge
+- [SourceForge project](https://sourceforge.net/projects/SOURCEFORGE-PROJECT/): Project page
+- [Source code](https://github.com/GITHUB-USER/live-wallpaper-for-pc): GitHub repository
+
+## Guides
+
+- [How to set a video as wallpaper](https://GITHUB-USER.github.io/live-wallpaper-for-pc/set-video-as-wallpaper/): Steps for Windows 11 and Windows 10
+- [How to set a GIF as wallpaper](https://GITHUB-USER.github.io/live-wallpaper-for-pc/set-gif-as-wallpaper/): Steps for Windows 11 and Windows 10
